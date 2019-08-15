@@ -1,1 +1,16 @@
-        1 file(s) copied.
+total 3060
+drwxr-xr-x 1 prata 197609       0 Aug 15 15:11 bin/
+drwxr-xr-x 1 prata 197609       0 Aug 15 15:11 cmd/
+drwxr-xr-x 1 prata 197609       0 Aug 15 15:11 dev/
+drwxr-xr-x 1 prata 197609       0 Aug 15 15:11 etc/
+-rwxr-xr-x 1 prata 197609  152600 Jun  8 06:14 git-bash.exe*
+-rwxr-xr-x 1 prata 197609  152088 Jun  8 06:14 git-cmd.exe*
+-rw-r--r-- 1 prata 197609   18765 Jun  8 05:44 LICENSE.txt
+drwxr-xr-x 1 prata 197609       0 Aug 15 15:11 mingw64/
+dr-xr-xr-x 9 prata 197609       0 Aug 15 16:32 proc/
+-rw-r--r-- 1 prata 197609  150407 Jun  8 06:46 ReleaseNotes.html
+drwxr-xr-x 1 prata 197609       0 Aug 15 16:07 tmp/
+-rw-r--r-- 1 prata 197609 1154678 Aug 15 15:11 unins000.dat
+-rwxr-xr-x 1 prata 197609 1299864 Aug 15 15:09 unins000.exe*
+-rw-r--r-- 1 prata 197609   22795 Aug 15 15:11 unins000.msg
+drwxr-xr-x 1 prata 197609       0 Aug 15 15:11 usr/
